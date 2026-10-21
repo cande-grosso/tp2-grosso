@@ -1,13 +1,15 @@
 # Datos
 
 ## Fuente
-- Dataset: Bicicletas Públicas, recurso "Recorridos Realizados 2024".
+- Dataset: Bicicletas Públicas, recurso "Recorridos Realizados 2024" (ZIP).
 - Portal: BA Data, Gobierno de la Ciudad de Buenos Aires.
 - URL: https://data.buenosaires.gob.ar/dataset/bicicletas-publicas
-- Responsable: [COMPLETAR, según la página del dataset]
-- Licencia: [COMPLETAR, según la página del dataset]
-- Fecha de consulta: [COMPLETAR, día de la descarga]
-
+- Responsable: Secretaría de Transporte y Obras Públicas, Jefatura de
+  Gabinete de Ministros (datosabiertos@buenosaires.gob.ar).
+- Licencia: CC-BY-2.5-AR (Creative Commons Atribución 2.5 Argentina).
+  Atribución: Gobierno de la Ciudad de Buenos Aires, BA Data.
+- Fecha de consulta: 21/10/2026 (página del dataset, actualizada por
+  última vez el 08/10/2026). El archivo se descargó el 20/10/2026
 ## Unidad de análisis
 Cada fila es un viaje realizado en el sistema Ecobici.
 
