@@ -1,0 +1,2002 @@
+[
+  {
+    "id_recorrido": "20417745",
+    "duracion_recorrido": "3394",
+    "fecha_origen_recorrido": "2024-01-23 00:07:05",
+    "fecha_destino_recorrido": "2024-01-23 01:03:39",
+    "id_estacion_origen": "242",
+    "nombre_estacion_origen": "103 - MALBA",
+    "id_estacion_destino": "27",
+    "nombre_estacion_destino": "027 - Montevideo"
+  },
+  {
+    "id_recorrido": "20417997",
+    "duracion_recorrido": "669",
+    "fecha_origen_recorrido": "2024-01-23 01:10:18",
+    "fecha_destino_recorrido": "2024-01-23 01:21:27",
+    "id_estacion_origen": "215",
+    "nombre_estacion_origen": "113 - Guatemala",
+    "id_estacion_destino": "58",
+    "nombre_estacion_destino": "058 - Ministro Carranza"
+  },
+  {
+    "id_recorrido": "20418752",
+    "duracion_recorrido": "2358",
+    "fecha_origen_recorrido": "2024-01-23 06:15:00",
+    "fecha_destino_recorrido": "2024-01-23 06:54:18",
+    "id_estacion_origen": "5",
+    "nombre_estacion_origen": "005 - Plaza Italia",
+    "id_estacion_destino": "175",
+    "nombre_estacion_destino": "147 - Constitución"
+  },
+  {
+    "id_recorrido": "20419050",
+    "duracion_recorrido": "664",
+    "fecha_origen_recorrido": "2024-01-23 06:59:59",
+    "fecha_destino_recorrido": "2024-01-23 07:11:03",
+    "id_estacion_origen": "166",
+    "nombre_estacion_origen": "166 - Cementerio de Recoleta",
+    "id_estacion_destino": "89",
+    "nombre_estacion_destino": "089 - Cabello"
+  },
+  {
+    "id_recorrido": "20419396",
+    "duracion_recorrido": "6047",
+    "fecha_origen_recorrido": "2024-01-23 07:32:38",
+    "fecha_destino_recorrido": "2024-01-23 09:13:25",
+    "id_estacion_origen": "418",
+    "nombre_estacion_origen": "345 - Plaza Mafalda",
+    "id_estacion_destino": "289",
+    "nombre_estacion_destino": "255 - BARRANCAS DE BELGRANO"
+  },
+  {
+    "id_recorrido": "20419733",
+    "duracion_recorrido": "641",
+    "fecha_origen_recorrido": "2024-01-23 07:59:00",
+    "fecha_destino_recorrido": "2024-01-23 08:09:41",
+    "id_estacion_origen": "259",
+    "nombre_estacion_origen": "290 - Club Excursionistas",
+    "id_estacion_destino": "435",
+    "nombre_estacion_destino": "227 -Club Ciudad de Buenos Aires"
+  },
+  {
+    "id_recorrido": "20419875",
+    "duracion_recorrido": "3173",
+    "fecha_origen_recorrido": "2024-01-23 08:10:22",
+    "fecha_destino_recorrido": "2024-01-23 09:03:15",
+    "id_estacion_origen": "412",
+    "nombre_estacion_origen": "372 - VILLA SOLDATI",
+    "id_estacion_destino": "412",
+    "nombre_estacion_destino": "372 - VILLA SOLDATI"
+  },
+  {
+    "id_recorrido": "20419904",
+    "duracion_recorrido": "1918",
+    "fecha_origen_recorrido": "2024-01-23 08:12:45",
+    "fecha_destino_recorrido": "2024-01-23 08:44:43",
+    "id_estacion_origen": "458",
+    "nombre_estacion_origen": "219 - Parque Chacabuco II",
+    "id_estacion_destino": "458",
+    "nombre_estacion_destino": "219 - Parque Chacabuco II"
+  },
+  {
+    "id_recorrido": "20420426",
+    "duracion_recorrido": "2",
+    "fecha_origen_recorrido": "2024-01-23 08:49:42",
+    "fecha_destino_recorrido": "2024-01-23 08:49:44",
+    "id_estacion_origen": "289",
+    "nombre_estacion_origen": "255 - BARRANCAS DE BELGRANO",
+    "id_estacion_destino": "245",
+    "nombre_estacion_destino": "248 - Husares"
+  },
+  {
+    "id_recorrido": "20420633",
+    "duracion_recorrido": "2421",
+    "fecha_origen_recorrido": "2024-01-23 09:03:37",
+    "fecha_destino_recorrido": "2024-01-23 09:43:58",
+    "id_estacion_origen": "506",
+    "nombre_estacion_origen": "040 - PARQUE SALGUERO",
+    "id_estacion_destino": "506",
+    "nombre_estacion_destino": "040 - PARQUE SALGUERO"
+  },
+  {
+    "id_recorrido": "20420645",
+    "duracion_recorrido": "925",
+    "fecha_origen_recorrido": "2024-01-23 09:04:49",
+    "fecha_destino_recorrido": "2024-01-23 09:20:14",
+    "id_estacion_origen": "149",
+    "nombre_estacion_origen": "149 - LIMA",
+    "id_estacion_destino": "35",
+    "nombre_estacion_destino": "035 - INGENIERO BUTTY"
+  },
+  {
+    "id_recorrido": "20421356",
+    "duracion_recorrido": "405",
+    "fecha_origen_recorrido": "2024-01-23 09:56:10",
+    "fecha_destino_recorrido": "2024-01-23 10:02:55",
+    "id_estacion_origen": "202",
+    "nombre_estacion_origen": "001 - FACULTAD DE DERECHO",
+    "id_estacion_destino": "242",
+    "nombre_estacion_destino": "103 - MALBA"
+  },
+  {
+    "id_recorrido": "20421438",
+    "duracion_recorrido": "314",
+    "fecha_origen_recorrido": "2024-01-23 10:05:39",
+    "fecha_destino_recorrido": "2024-01-23 10:10:53",
+    "id_estacion_origen": "175",
+    "nombre_estacion_origen": "147 - Constitución",
+    "id_estacion_destino": "172",
+    "nombre_estacion_destino": "172 - BRASIL"
+  },
+  {
+    "id_recorrido": "20421605",
+    "duracion_recorrido": "1464",
+    "fecha_origen_recorrido": "2024-01-23 10:31:15",
+    "fecha_destino_recorrido": "2024-01-23 10:55:39",
+    "id_estacion_origen": "210",
+    "nombre_estacion_origen": "335 - General Urquiza",
+    "id_estacion_destino": "12",
+    "nombre_estacion_destino": "012 - Plaza Vicente Lopez"
+  },
+  {
+    "id_recorrido": "20421639",
+    "duracion_recorrido": "33",
+    "fecha_origen_recorrido": "2024-01-23 10:34:11",
+    "fecha_destino_recorrido": "2024-01-23 10:34:44",
+    "id_estacion_origen": "187",
+    "nombre_estacion_origen": "261 - QUINTEROS LIDORO",
+    "id_estacion_destino": "187",
+    "nombre_estacion_destino": "261 - QUINTEROS LIDORO"
+  },
+  {
+    "id_recorrido": "20421654",
+    "duracion_recorrido": "371",
+    "fecha_origen_recorrido": "2024-01-23 10:34:57",
+    "fecha_destino_recorrido": "2024-01-23 10:41:08",
+    "id_estacion_origen": "183",
+    "nombre_estacion_origen": "183 - VIRREY CEVALLOS",
+    "id_estacion_destino": "149",
+    "nombre_estacion_destino": "149 - LIMA"
+  },
+  {
+    "id_recorrido": "20421802",
+    "duracion_recorrido": "24",
+    "fecha_origen_recorrido": "2024-01-23 10:50:47",
+    "fecha_destino_recorrido": "2024-01-23 10:51:11",
+    "id_estacion_origen": "500",
+    "nombre_estacion_origen": "235 - COMUNA 13",
+    "id_estacion_destino": "500",
+    "nombre_estacion_destino": "235 - COMUNA 13"
+  },
+  {
+    "id_recorrido": "20421851",
+    "duracion_recorrido": "1556",
+    "fecha_origen_recorrido": "2024-01-23 10:56:44",
+    "fecha_destino_recorrido": "2024-01-23 11:22:40",
+    "id_estacion_origen": "231",
+    "nombre_estacion_origen": "384 - PLAZA BENITO NAZAR",
+    "id_estacion_destino": "511",
+    "nombre_estacion_destino": "284 - AV. FOREST"
+  },
+  {
+    "id_recorrido": "20421853",
+    "duracion_recorrido": "939",
+    "fecha_origen_recorrido": "2024-01-23 10:57:05",
+    "fecha_destino_recorrido": "2024-01-23 11:12:44",
+    "id_estacion_origen": "468",
+    "nombre_estacion_origen": "084 - TEATRO PICADERO",
+    "id_estacion_destino": "213",
+    "nombre_estacion_destino": "136 - Acevedo"
+  },
+  {
+    "id_recorrido": "20421893",
+    "duracion_recorrido": "939",
+    "fecha_origen_recorrido": "2024-01-23 11:01:49",
+    "fecha_destino_recorrido": "2024-01-23 11:17:28",
+    "id_estacion_origen": "263",
+    "nombre_estacion_origen": "270 - PLAZA DEL ANGEL GRIS",
+    "id_estacion_destino": "87",
+    "nombre_estacion_destino": "087 - Guayaquil"
+  },
+  {
+    "id_recorrido": "20421896",
+    "duracion_recorrido": "896",
+    "fecha_origen_recorrido": "2024-01-23 11:02:19",
+    "fecha_destino_recorrido": "2024-01-23 11:17:15",
+    "id_estacion_origen": "199",
+    "nombre_estacion_origen": "199 - ESTADOS UNIDOS Y BOEDO",
+    "id_estacion_destino": "204",
+    "nombre_estacion_destino": "167 - Hipólito Yrigoyen"
+  },
+  {
+    "id_recorrido": "20421956",
+    "duracion_recorrido": "707",
+    "fecha_origen_recorrido": "2024-01-23 11:08:36",
+    "fecha_destino_recorrido": "2024-01-23 11:20:23",
+    "id_estacion_origen": "167",
+    "nombre_estacion_origen": "275 - PLAZA 24 DE SEPTIEMBRE",
+    "id_estacion_destino": "94",
+    "nombre_estacion_destino": "094 - GÚZMAN"
+  },
+  {
+    "id_recorrido": "20421964",
+    "duracion_recorrido": "1016",
+    "fecha_origen_recorrido": "2024-01-23 11:09:24",
+    "fecha_destino_recorrido": "2024-01-23 11:26:20",
+    "id_estacion_origen": "468",
+    "nombre_estacion_origen": "084 - TEATRO PICADERO",
+    "id_estacion_destino": "32",
+    "nombre_estacion_destino": "032 - Catedral"
+  },
+  {
+    "id_recorrido": "20421977",
+    "duracion_recorrido": "1538",
+    "fecha_origen_recorrido": "2024-01-23 11:10:24",
+    "fecha_destino_recorrido": "2024-01-23 11:36:02",
+    "id_estacion_origen": "120",
+    "nombre_estacion_origen": "120 - HOSPITAL RAMOS MEJIA",
+    "id_estacion_destino": "121",
+    "nombre_estacion_destino": "121 - YATAY"
+  },
+  {
+    "id_recorrido": "20422079",
+    "duracion_recorrido": "1519",
+    "fecha_origen_recorrido": "2024-01-23 11:16:46",
+    "fecha_destino_recorrido": "2024-01-23 11:42:05",
+    "id_estacion_origen": "117",
+    "nombre_estacion_origen": "117 - HUMBERTO 1°",
+    "id_estacion_destino": "433",
+    "nombre_estacion_destino": "273 - Plazoleta Colombia"
+  },
+  {
+    "id_recorrido": "20422196",
+    "duracion_recorrido": "1411",
+    "fecha_origen_recorrido": "2024-01-23 11:28:38",
+    "fecha_destino_recorrido": "2024-01-23 11:52:09",
+    "id_estacion_origen": "216",
+    "nombre_estacion_origen": "059 - Coronel Diaz",
+    "id_estacion_destino": "54",
+    "nombre_estacion_destino": "054 - Acuña de Figueroa"
+  },
+  {
+    "id_recorrido": "20422222",
+    "duracion_recorrido": "634",
+    "fecha_origen_recorrido": "2024-01-23 11:31:09",
+    "fecha_destino_recorrido": "2024-01-23 11:41:43",
+    "id_estacion_origen": "63",
+    "nombre_estacion_origen": "063 - Reconquista",
+    "id_estacion_destino": "189",
+    "nombre_estacion_destino": "189 - POSADAS"
+  },
+  {
+    "id_recorrido": "20422229",
+    "duracion_recorrido": "1232",
+    "fecha_origen_recorrido": "2024-01-23 11:32:23",
+    "fecha_destino_recorrido": "2024-01-23 11:52:55",
+    "id_estacion_origen": "38",
+    "nombre_estacion_origen": "038 - Plaza Libertad",
+    "id_estacion_destino": "130",
+    "nombre_estacion_destino": "130 - RETIRO II"
+  },
+  {
+    "id_recorrido": "20422374",
+    "duracion_recorrido": "2424",
+    "fecha_origen_recorrido": "2024-01-23 11:43:14",
+    "fecha_destino_recorrido": "2024-01-23 12:23:38",
+    "id_estacion_origen": "255",
+    "nombre_estacion_origen": "374 - Puan",
+    "id_estacion_destino": "329",
+    "nombre_estacion_destino": "100 - Plaza Gurruchaga"
+  },
+  {
+    "id_recorrido": "20422418",
+    "duracion_recorrido": "21",
+    "fecha_origen_recorrido": "2024-01-23 11:48:52",
+    "fecha_destino_recorrido": "2024-01-23 11:49:13",
+    "id_estacion_origen": "281",
+    "nombre_estacion_origen": "350 - Plaza Irlanda",
+    "id_estacion_destino": "281",
+    "nombre_estacion_destino": "350 - Plaza Irlanda"
+  },
+  {
+    "id_recorrido": "20422431",
+    "duracion_recorrido": "1624",
+    "fecha_origen_recorrido": "2024-01-23 11:49:46",
+    "fecha_destino_recorrido": "2024-01-23 12:16:50",
+    "id_estacion_origen": "281",
+    "nombre_estacion_origen": "350 - Plaza Irlanda",
+    "id_estacion_destino": "281",
+    "nombre_estacion_destino": "350 - Plaza Irlanda"
+  },
+  {
+    "id_recorrido": "20422646",
+    "duracion_recorrido": "952",
+    "fecha_origen_recorrido": "2024-01-23 12:13:40",
+    "fecha_destino_recorrido": "2024-01-23 12:29:32",
+    "id_estacion_origen": "104",
+    "nombre_estacion_origen": "104 - Federico Lacroze",
+    "id_estacion_destino": "262",
+    "nombre_estacion_destino": "349 - Plaza Saenz Peña"
+  },
+  {
+    "id_recorrido": "20422738",
+    "duracion_recorrido": "837",
+    "fecha_origen_recorrido": "2024-01-23 12:22:01",
+    "fecha_destino_recorrido": "2024-01-23 12:35:58",
+    "id_estacion_origen": "524",
+    "nombre_estacion_origen": "338 - AV. CABILDO",
+    "id_estacion_destino": "526",
+    "nombre_estacion_destino": "088 - NUÑEZ "
+  },
+  {
+    "id_recorrido": "20422744",
+    "duracion_recorrido": "734",
+    "fecha_origen_recorrido": "2024-01-23 12:23:06",
+    "fecha_destino_recorrido": "2024-01-23 12:35:20",
+    "id_estacion_origen": "370",
+    "nombre_estacion_origen": "305 - Plaza Martin Rodriguez",
+    "id_estacion_destino": "370",
+    "nombre_estacion_destino": "305 - Plaza Martin Rodriguez"
+  },
+  {
+    "id_recorrido": "20422831",
+    "duracion_recorrido": "1285",
+    "fecha_origen_recorrido": "2024-01-23 12:31:42",
+    "fecha_destino_recorrido": "2024-01-23 12:53:07",
+    "id_estacion_origen": "525",
+    "nombre_estacion_origen": "317 - ESCUELA RAGGIO",
+    "id_estacion_destino": "355",
+    "nombre_estacion_destino": "242 - Plazoleta Rafael del Riego"
+  },
+  {
+    "id_recorrido": "20422882",
+    "duracion_recorrido": "1795",
+    "fecha_origen_recorrido": "2024-01-23 12:36:12",
+    "fecha_destino_recorrido": "2024-01-23 13:06:07",
+    "id_estacion_origen": "323",
+    "nombre_estacion_origen": "240 - ECHEVERRIA",
+    "id_estacion_destino": "379",
+    "nombre_estacion_destino": "390 - De Los Ombues"
+  },
+  {
+    "id_recorrido": "20422965",
+    "duracion_recorrido": "360",
+    "fecha_origen_recorrido": "2024-01-23 12:44:59",
+    "fecha_destino_recorrido": "2024-01-23 12:50:59",
+    "id_estacion_origen": "183",
+    "nombre_estacion_origen": "183 - VIRREY CEVALLOS",
+    "id_estacion_destino": "59",
+    "nombre_estacion_destino": "018 - Independencia"
+  },
+  {
+    "id_recorrido": "20422993",
+    "duracion_recorrido": "1026",
+    "fecha_origen_recorrido": "2024-01-23 12:46:58",
+    "fecha_destino_recorrido": "2024-01-23 13:04:04",
+    "id_estacion_origen": "89",
+    "nombre_estacion_origen": "089 - Cabello",
+    "id_estacion_destino": "440",
+    "nombre_estacion_destino": "142 - ARMENIA"
+  },
+  {
+    "id_recorrido": "20423057",
+    "duracion_recorrido": "2245",
+    "fecha_origen_recorrido": "2024-01-23 12:53:15",
+    "fecha_destino_recorrido": "2024-01-23 13:30:40",
+    "id_estacion_origen": "440",
+    "nombre_estacion_origen": "142 - ARMENIA",
+    "id_estacion_destino": "189",
+    "nombre_estacion_destino": "189 - POSADAS"
+  },
+  {
+    "id_recorrido": "20423086",
+    "duracion_recorrido": "28",
+    "fecha_origen_recorrido": "2024-01-23 12:56:21",
+    "fecha_destino_recorrido": "2024-01-23 12:56:49",
+    "id_estacion_origen": "107",
+    "nombre_estacion_origen": "107 - HOSPITAL GARRAHAN",
+    "id_estacion_destino": "107",
+    "nombre_estacion_destino": "107 - HOSPITAL GARRAHAN"
+  },
+  {
+    "id_recorrido": "20423099",
+    "duracion_recorrido": "627",
+    "fecha_origen_recorrido": "2024-01-23 12:57:23",
+    "fecha_destino_recorrido": "2024-01-23 13:07:50",
+    "id_estacion_origen": "107",
+    "nombre_estacion_origen": "107 - HOSPITAL GARRAHAN",
+    "id_estacion_destino": "183",
+    "nombre_estacion_destino": "183 - VIRREY CEVALLOS"
+  },
+  {
+    "id_recorrido": "20423106",
+    "duracion_recorrido": "1161",
+    "fecha_origen_recorrido": "2024-01-23 12:57:51",
+    "fecha_destino_recorrido": "2024-01-23 13:17:12",
+    "id_estacion_origen": "7",
+    "nombre_estacion_origen": "007 - OBELISCO",
+    "id_estacion_destino": "117",
+    "nombre_estacion_destino": "117 - HUMBERTO 1°"
+  },
+  {
+    "id_recorrido": "20423352",
+    "duracion_recorrido": "333",
+    "fecha_origen_recorrido": "2024-01-23 13:21:27",
+    "fecha_destino_recorrido": "2024-01-23 13:27:00",
+    "id_estacion_origen": "26",
+    "nombre_estacion_origen": "026 - JUANA MANSO I",
+    "id_estacion_destino": "114",
+    "nombre_estacion_destino": "114 - TORRE MACRO"
+  },
+  {
+    "id_recorrido": "20423453",
+    "duracion_recorrido": "2580",
+    "fecha_origen_recorrido": "2024-01-23 13:31:25",
+    "fecha_destino_recorrido": "2024-01-23 14:14:25",
+    "id_estacion_origen": "177",
+    "nombre_estacion_origen": "177 -PLANETARIO",
+    "id_estacion_destino": "96",
+    "nombre_estacion_destino": "096 - Carlos Gardel"
+  },
+  {
+    "id_recorrido": "20423562",
+    "duracion_recorrido": "1031",
+    "fecha_origen_recorrido": "2024-01-23 13:40:55",
+    "fecha_destino_recorrido": "2024-01-23 13:58:06",
+    "id_estacion_origen": "117",
+    "nombre_estacion_origen": "117 - HUMBERTO 1°",
+    "id_estacion_destino": "150",
+    "nombre_estacion_destino": "150 - RODRIGO BUENO"
+  },
+  {
+    "id_recorrido": "20423656",
+    "duracion_recorrido": "196",
+    "fecha_origen_recorrido": "2024-01-23 13:50:38",
+    "fecha_destino_recorrido": "2024-01-23 13:53:54",
+    "id_estacion_origen": "289",
+    "nombre_estacion_origen": "255 - BARRANCAS DE BELGRANO",
+    "id_estacion_destino": "359",
+    "nombre_estacion_destino": "250 - Fleni"
+  },
+  {
+    "id_recorrido": "20423704",
+    "duracion_recorrido": "317",
+    "fecha_origen_recorrido": "2024-01-23 13:55:25",
+    "fecha_destino_recorrido": "2024-01-23 14:00:42",
+    "id_estacion_origen": "51",
+    "nombre_estacion_origen": "051 - TUCUMAN",
+    "id_estacion_destino": "135",
+    "nombre_estacion_destino": "135 - MARCELO T. DE ALVEAR"
+  },
+  {
+    "id_recorrido": "20423795",
+    "duracion_recorrido": "540",
+    "fecha_origen_recorrido": "2024-01-23 14:03:00",
+    "fecha_destino_recorrido": "2024-01-23 14:12:00",
+    "id_estacion_origen": "215",
+    "nombre_estacion_origen": "113 - Guatemala",
+    "id_estacion_destino": "222",
+    "nombre_estacion_destino": "160 - Godoy Cruz y Libertador"
+  },
+  {
+    "id_recorrido": "20423881",
+    "duracion_recorrido": "1154",
+    "fecha_origen_recorrido": "2024-01-23 14:08:12",
+    "fecha_destino_recorrido": "2024-01-23 14:27:26",
+    "id_estacion_origen": "25",
+    "nombre_estacion_origen": "025 - Plaza Guemes",
+    "id_estacion_destino": "158",
+    "nombre_estacion_destino": "158 - VILLARROEL"
+  },
+  {
+    "id_recorrido": "20424016",
+    "duracion_recorrido": "1018",
+    "fecha_origen_recorrido": "2024-01-23 14:18:11",
+    "fecha_destino_recorrido": "2024-01-23 14:35:09",
+    "id_estacion_origen": "194",
+    "nombre_estacion_origen": "194 - PERÓN Y ACUÑA DE FIGUEROA",
+    "id_estacion_destino": "89",
+    "nombre_estacion_destino": "089 - Cabello"
+  },
+  {
+    "id_recorrido": "20424067",
+    "duracion_recorrido": "1357",
+    "fecha_origen_recorrido": "2024-01-23 14:22:00",
+    "fecha_destino_recorrido": "2024-01-23 14:44:37",
+    "id_estacion_origen": "299",
+    "nombre_estacion_origen": "221 - CULPINA",
+    "id_estacion_destino": "458",
+    "nombre_estacion_destino": "219 - Parque Chacabuco II"
+  },
+  {
+    "id_recorrido": "20424077",
+    "duracion_recorrido": "1537",
+    "fecha_origen_recorrido": "2024-01-23 14:22:40",
+    "fecha_destino_recorrido": "2024-01-23 14:48:17",
+    "id_estacion_origen": "245",
+    "nombre_estacion_origen": "248 - Husares",
+    "id_estacion_destino": "124",
+    "nombre_estacion_destino": "124 - UGARTECHE"
+  },
+  {
+    "id_recorrido": "20424140",
+    "duracion_recorrido": "792",
+    "fecha_origen_recorrido": "2024-01-23 14:27:52",
+    "fecha_destino_recorrido": "2024-01-23 14:41:04",
+    "id_estacion_origen": "329",
+    "nombre_estacion_origen": "100 - Plaza Gurruchaga",
+    "id_estacion_destino": "534",
+    "nombre_estacion_destino": "081 - PARQUE DE LAS CIENCIAS"
+  },
+  {
+    "id_recorrido": "20424186",
+    "duracion_recorrido": "1461",
+    "fecha_origen_recorrido": "2024-01-23 14:31:25",
+    "fecha_destino_recorrido": "2024-01-23 14:55:46",
+    "id_estacion_origen": "153",
+    "nombre_estacion_origen": "153 - JUAN MANUEL DE BLANES",
+    "id_estacion_destino": "21",
+    "nombre_estacion_destino": "021 - Parque Patricios"
+  },
+  {
+    "id_recorrido": "20424200",
+    "duracion_recorrido": "744",
+    "fecha_origen_recorrido": "2024-01-23 14:32:40",
+    "fecha_destino_recorrido": "2024-01-23 14:45:04",
+    "id_estacion_origen": "384",
+    "nombre_estacion_origen": "267 - Plaza 25 De Agosto",
+    "id_estacion_destino": "102",
+    "nombre_estacion_destino": "102 - ROSETI"
+  },
+  {
+    "id_recorrido": "20424450",
+    "duracion_recorrido": "1075",
+    "fecha_origen_recorrido": "2024-01-23 14:53:01",
+    "fecha_destino_recorrido": "2024-01-23 15:10:56",
+    "id_estacion_origen": "278",
+    "nombre_estacion_origen": "233 - MONROE",
+    "id_estacion_destino": "269",
+    "nombre_estacion_destino": "260 - SAN MIGUEL DE GARICOITS"
+  },
+  {
+    "id_recorrido": "20424474",
+    "duracion_recorrido": "225",
+    "fecha_origen_recorrido": "2024-01-23 14:54:47",
+    "fecha_destino_recorrido": "2024-01-23 14:58:32",
+    "id_estacion_origen": "25",
+    "nombre_estacion_origen": "025 - Plaza Guemes",
+    "id_estacion_destino": "9",
+    "nombre_estacion_destino": "009 - Parque Las Heras"
+  },
+  {
+    "id_recorrido": "20424489",
+    "duracion_recorrido": "1383",
+    "fecha_origen_recorrido": "2024-01-23 14:55:50",
+    "fecha_destino_recorrido": "2024-01-23 15:18:53",
+    "id_estacion_origen": "165",
+    "nombre_estacion_origen": "165 - PLAZA MONSEÑOR MIGUEL DE ANDREA",
+    "id_estacion_destino": "96",
+    "nombre_estacion_destino": "096 - Carlos Gardel"
+  },
+  {
+    "id_recorrido": "20424538",
+    "duracion_recorrido": "1972",
+    "fecha_origen_recorrido": "2024-01-23 14:59:43",
+    "fecha_destino_recorrido": "2024-01-23 15:32:35",
+    "id_estacion_origen": "83",
+    "nombre_estacion_origen": "083 - Paraná",
+    "id_estacion_destino": "353",
+    "nombre_estacion_destino": "237 - Madero Office"
+  },
+  {
+    "id_recorrido": "20424581",
+    "duracion_recorrido": "681",
+    "fecha_origen_recorrido": "2024-01-23 15:03:04",
+    "fecha_destino_recorrido": "2024-01-23 15:14:25",
+    "id_estacion_origen": "403",
+    "nombre_estacion_origen": "316 - Buenos Aires",
+    "id_estacion_destino": "175",
+    "nombre_estacion_destino": "147 - Constitución"
+  },
+  {
+    "id_recorrido": "20424674",
+    "duracion_recorrido": "816",
+    "fecha_origen_recorrido": "2024-01-23 15:08:59",
+    "fecha_destino_recorrido": "2024-01-23 15:22:35",
+    "id_estacion_origen": "29",
+    "nombre_estacion_origen": "029 - Parque Centenario",
+    "id_estacion_destino": "253",
+    "nombre_estacion_destino": "383 - BOEDO Y VENEZUELA"
+  },
+  {
+    "id_recorrido": "20424830",
+    "duracion_recorrido": "856",
+    "fecha_origen_recorrido": "2024-01-23 15:21:21",
+    "fecha_destino_recorrido": "2024-01-23 15:35:37",
+    "id_estacion_origen": "3",
+    "nombre_estacion_origen": "003 - ADUANA",
+    "id_estacion_destino": "150",
+    "nombre_estacion_destino": "150 - RODRIGO BUENO"
+  },
+  {
+    "id_recorrido": "20424874",
+    "duracion_recorrido": "1177",
+    "fecha_origen_recorrido": "2024-01-23 15:24:33",
+    "fecha_destino_recorrido": "2024-01-23 15:44:10",
+    "id_estacion_origen": "260",
+    "nombre_estacion_origen": "371 - Paseo de las Americas",
+    "id_estacion_destino": "323",
+    "nombre_estacion_destino": "240 - ECHEVERRIA"
+  },
+  {
+    "id_recorrido": "20424911",
+    "duracion_recorrido": "1371",
+    "fecha_origen_recorrido": "2024-01-23 15:27:16",
+    "fecha_destino_recorrido": "2024-01-23 15:50:07",
+    "id_estacion_origen": "63",
+    "nombre_estacion_origen": "063 - Reconquista",
+    "id_estacion_destino": "117",
+    "nombre_estacion_destino": "117 - HUMBERTO 1°"
+  },
+  {
+    "id_recorrido": "20425041",
+    "duracion_recorrido": "3170",
+    "fecha_origen_recorrido": "2024-01-23 15:38:55",
+    "fecha_destino_recorrido": "2024-01-23 16:31:45",
+    "id_estacion_origen": "302",
+    "nombre_estacion_origen": "340 - PLAZA NUEVA POMPEYA",
+    "id_estacion_destino": "69",
+    "nombre_estacion_destino": "069 - Ecuador"
+  },
+  {
+    "id_recorrido": "20425081",
+    "duracion_recorrido": "1504",
+    "fecha_origen_recorrido": "2024-01-23 15:42:49",
+    "fecha_destino_recorrido": "2024-01-23 16:07:53",
+    "id_estacion_origen": "299",
+    "nombre_estacion_origen": "221 - CULPINA",
+    "id_estacion_destino": "87",
+    "nombre_estacion_destino": "087 - Guayaquil"
+  },
+  {
+    "id_recorrido": "20425104",
+    "duracion_recorrido": "23",
+    "fecha_origen_recorrido": "2024-01-23 15:44:18",
+    "fecha_destino_recorrido": "2024-01-23 15:44:41",
+    "id_estacion_origen": "79",
+    "nombre_estacion_origen": "079 - AZUCENA VILLAFLOR",
+    "id_estacion_destino": "79",
+    "nombre_estacion_destino": "079 - AZUCENA VILLAFLOR"
+  },
+  {
+    "id_recorrido": "20425163",
+    "duracion_recorrido": "321",
+    "fecha_origen_recorrido": "2024-01-23 15:48:56",
+    "fecha_destino_recorrido": "2024-01-23 15:54:17",
+    "id_estacion_origen": "385",
+    "nombre_estacion_origen": "268 - Plaza Aristóbulo Del Valle",
+    "id_estacion_destino": "473",
+    "nombre_estacion_destino": "216 - EMILIO LAMARCA"
+  },
+  {
+    "id_recorrido": "20425220",
+    "duracion_recorrido": "2104",
+    "fecha_origen_recorrido": "2024-01-23 15:53:01",
+    "fecha_destino_recorrido": "2024-01-23 16:28:05",
+    "id_estacion_origen": "12",
+    "nombre_estacion_origen": "012 - Plaza Vicente Lopez",
+    "id_estacion_destino": "161",
+    "nombre_estacion_destino": "161 - Humahuaca"
+  },
+  {
+    "id_recorrido": "20425288",
+    "duracion_recorrido": "812",
+    "fecha_origen_recorrido": "2024-01-23 15:58:32",
+    "fecha_destino_recorrido": "2024-01-23 16:12:04",
+    "id_estacion_origen": "206",
+    "nombre_estacion_origen": "159 - Fitz Roy & Gorriti",
+    "id_estacion_destino": "418",
+    "nombre_estacion_destino": "345 - Plaza Mafalda"
+  },
+  {
+    "id_recorrido": "20425313",
+    "duracion_recorrido": "2",
+    "fecha_origen_recorrido": "2024-01-23 16:01:05",
+    "fecha_destino_recorrido": "2024-01-23 16:01:07",
+    "id_estacion_origen": "309",
+    "nombre_estacion_origen": "298 - PLAZA DR. JUAN B. TERAN",
+    "id_estacion_destino": "455",
+    "nombre_estacion_destino": "039 - Plaza Don Bosco"
+  },
+  {
+    "id_recorrido": "20425380",
+    "duracion_recorrido": "1969",
+    "fecha_origen_recorrido": "2024-01-23 16:05:13",
+    "fecha_destino_recorrido": "2024-01-23 16:38:02",
+    "id_estacion_origen": "526",
+    "nombre_estacion_origen": "088 - NUÑEZ ",
+    "id_estacion_destino": "534",
+    "nombre_estacion_destino": "081 - PARQUE DE LAS CIENCIAS"
+  },
+  {
+    "id_recorrido": "20425431",
+    "duracion_recorrido": "689",
+    "fecha_origen_recorrido": "2024-01-23 16:08:20",
+    "fecha_destino_recorrido": "2024-01-23 16:19:49",
+    "id_estacion_origen": "223",
+    "nombre_estacion_origen": "178 - José Marmol",
+    "id_estacion_destino": "220",
+    "nombre_estacion_destino": "097 - Avelino Diaz"
+  },
+  {
+    "id_recorrido": "20425451",
+    "duracion_recorrido": "337",
+    "fecha_origen_recorrido": "2024-01-23 16:09:33",
+    "fecha_destino_recorrido": "2024-01-23 16:15:10",
+    "id_estacion_origen": "59",
+    "nombre_estacion_origen": "018 - Independencia",
+    "id_estacion_destino": "164",
+    "nombre_estacion_destino": "164 - FACULTAD DE INGENIERIA"
+  },
+  {
+    "id_recorrido": "20425460",
+    "duracion_recorrido": "1001",
+    "fecha_origen_recorrido": "2024-01-23 16:10:19",
+    "fecha_destino_recorrido": "2024-01-23 16:27:00",
+    "id_estacion_origen": "254",
+    "nombre_estacion_origen": "276 - PRIMERA JUNTA",
+    "id_estacion_destino": "363",
+    "nombre_estacion_destino": "354 - José Martí"
+  },
+  {
+    "id_recorrido": "20425466",
+    "duracion_recorrido": "797",
+    "fecha_origen_recorrido": "2024-01-23 16:10:29",
+    "fecha_destino_recorrido": "2024-01-23 16:23:46",
+    "id_estacion_origen": "219",
+    "nombre_estacion_origen": "140 - Las Casas",
+    "id_estacion_destino": "253",
+    "nombre_estacion_destino": "383 - BOEDO Y VENEZUELA"
+  },
+  {
+    "id_recorrido": "20425543",
+    "duracion_recorrido": "566",
+    "fecha_origen_recorrido": "2024-01-23 16:14:28",
+    "fecha_destino_recorrido": "2024-01-23 16:23:54",
+    "id_estacion_origen": "94",
+    "nombre_estacion_origen": "094 - GÚZMAN",
+    "id_estacion_destino": "493",
+    "nombre_estacion_destino": "208 - NICASIO OROÑO"
+  },
+  {
+    "id_recorrido": "20425576",
+    "duracion_recorrido": "775",
+    "fecha_origen_recorrido": "2024-01-23 16:17:05",
+    "fecha_destino_recorrido": "2024-01-23 16:30:00",
+    "id_estacion_origen": "393",
+    "nombre_estacion_origen": "300 - Jose Artigas",
+    "id_estacion_destino": "316",
+    "nombre_estacion_destino": "205 - SAN MARTIN"
+  },
+  {
+    "id_recorrido": "20425616",
+    "duracion_recorrido": "1393",
+    "fecha_origen_recorrido": "2024-01-23 16:19:50",
+    "fecha_destino_recorrido": "2024-01-23 16:43:03",
+    "id_estacion_origen": "92",
+    "nombre_estacion_origen": "092 - Salcedo",
+    "id_estacion_destino": "492",
+    "nombre_estacion_destino": "325 - MEDRANO"
+  },
+  {
+    "id_recorrido": "20425636",
+    "duracion_recorrido": "1560",
+    "fecha_origen_recorrido": "2024-01-23 16:21:13",
+    "fecha_destino_recorrido": "2024-01-23 16:47:13",
+    "id_estacion_origen": "206",
+    "nombre_estacion_origen": "159 - Fitz Roy & Gorriti",
+    "id_estacion_destino": "194",
+    "nombre_estacion_destino": "194 - PERÓN Y ACUÑA DE FIGUEROA"
+  },
+  {
+    "id_recorrido": "20425667",
+    "duracion_recorrido": "23",
+    "fecha_origen_recorrido": "2024-01-23 16:23:09",
+    "fecha_destino_recorrido": "2024-01-23 16:23:32",
+    "id_estacion_origen": "27",
+    "nombre_estacion_origen": "027 - Montevideo",
+    "id_estacion_destino": "27",
+    "nombre_estacion_destino": "027 - Montevideo"
+  },
+  {
+    "id_recorrido": "20425678",
+    "duracion_recorrido": "23",
+    "fecha_origen_recorrido": "2024-01-23 16:23:46",
+    "fecha_destino_recorrido": "2024-01-23 16:24:09",
+    "id_estacion_origen": "27",
+    "nombre_estacion_origen": "027 - Montevideo",
+    "id_estacion_destino": "27",
+    "nombre_estacion_destino": "027 - Montevideo"
+  },
+  {
+    "id_recorrido": "20425720",
+    "duracion_recorrido": "1250",
+    "fecha_origen_recorrido": "2024-01-23 16:26:45",
+    "fecha_destino_recorrido": "2024-01-23 16:47:35",
+    "id_estacion_origen": "432",
+    "nombre_estacion_origen": "187 - Jose Maria Moreno",
+    "id_estacion_destino": "186",
+    "nombre_estacion_destino": "186 - MANZANA 66"
+  },
+  {
+    "id_recorrido": "20425734",
+    "duracion_recorrido": "496",
+    "fecha_origen_recorrido": "2024-01-23 16:28:20",
+    "fecha_destino_recorrido": "2024-01-23 16:36:36",
+    "id_estacion_origen": "137",
+    "nombre_estacion_origen": "137 - AZOPARDO Y CHILE",
+    "id_estacion_destino": "4",
+    "nombre_estacion_destino": "004 - Plaza Roma"
+  },
+  {
+    "id_recorrido": "20425765",
+    "duracion_recorrido": "1046",
+    "fecha_origen_recorrido": "2024-01-23 16:29:46",
+    "fecha_destino_recorrido": "2024-01-23 16:47:12",
+    "id_estacion_origen": "318",
+    "nombre_estacion_origen": "285 - ESPINOSA",
+    "id_estacion_destino": "400",
+    "nombre_estacion_destino": "313 - De Los Incas"
+  },
+  {
+    "id_recorrido": "20425777",
+    "duracion_recorrido": "1009",
+    "fecha_origen_recorrido": "2024-01-23 16:31:15",
+    "fecha_destino_recorrido": "2024-01-23 16:48:04",
+    "id_estacion_origen": "186",
+    "nombre_estacion_origen": "186 - MANZANA 66",
+    "id_estacion_destino": "223",
+    "nombre_estacion_destino": "178 - José Marmol"
+  },
+  {
+    "id_recorrido": "20425809",
+    "duracion_recorrido": "933",
+    "fecha_origen_recorrido": "2024-01-23 16:33:20",
+    "fecha_destino_recorrido": "2024-01-23 16:48:53",
+    "id_estacion_origen": "203",
+    "nombre_estacion_origen": "108 - Usina del Arte",
+    "id_estacion_destino": "153",
+    "nombre_estacion_destino": "153 - JUAN MANUEL DE BLANES"
+  },
+  {
+    "id_recorrido": "20425915",
+    "duracion_recorrido": "1350",
+    "fecha_origen_recorrido": "2024-01-23 16:38:53",
+    "fecha_destino_recorrido": "2024-01-23 17:01:23",
+    "id_estacion_origen": "74",
+    "nombre_estacion_origen": "074 - INSTITUTO LELOIR",
+    "id_estacion_destino": "17",
+    "nombre_estacion_destino": "017 - Plaza Almagro"
+  },
+  {
+    "id_recorrido": "20425925",
+    "duracion_recorrido": "944",
+    "fecha_origen_recorrido": "2024-01-23 16:39:35",
+    "fecha_destino_recorrido": "2024-01-23 16:55:19",
+    "id_estacion_origen": "468",
+    "nombre_estacion_origen": "084 - TEATRO PICADERO",
+    "id_estacion_destino": "71",
+    "nombre_estacion_destino": "071 - CERRITO"
+  },
+  {
+    "id_recorrido": "20425934",
+    "duracion_recorrido": "420",
+    "fecha_origen_recorrido": "2024-01-23 16:39:53",
+    "fecha_destino_recorrido": "2024-01-23 16:46:53",
+    "id_estacion_origen": "56",
+    "nombre_estacion_origen": "056 - Plaza Palermo Viejo",
+    "id_estacion_destino": "14",
+    "nombre_estacion_destino": "014 - Pacifico"
+  },
+  {
+    "id_recorrido": "20425952",
+    "duracion_recorrido": "513",
+    "fecha_origen_recorrido": "2024-01-23 16:40:34",
+    "fecha_destino_recorrido": "2024-01-23 16:49:07",
+    "id_estacion_origen": "152",
+    "nombre_estacion_origen": "152 - JULIETA LANTERI",
+    "id_estacion_destino": "164",
+    "nombre_estacion_destino": "164 - FACULTAD DE INGENIERIA"
+  },
+  {
+    "id_recorrido": "20426117",
+    "duracion_recorrido": "2048",
+    "fecha_origen_recorrido": "2024-01-23 16:49:29",
+    "fecha_destino_recorrido": "2024-01-23 17:23:37",
+    "id_estacion_origen": "458",
+    "nombre_estacion_origen": "219 - Parque Chacabuco II",
+    "id_estacion_destino": "301",
+    "nombre_estacion_destino": "309 - UTN II"
+  },
+  {
+    "id_recorrido": "20426246",
+    "duracion_recorrido": "1871",
+    "fecha_origen_recorrido": "2024-01-23 16:56:15",
+    "fecha_destino_recorrido": "2024-01-23 17:27:26",
+    "id_estacion_origen": "2",
+    "nombre_estacion_origen": "002 - Retiro I",
+    "id_estacion_destino": "210",
+    "nombre_estacion_destino": "335 - General Urquiza"
+  },
+  {
+    "id_recorrido": "20426356",
+    "duracion_recorrido": "1405",
+    "fecha_origen_recorrido": "2024-01-23 17:02:25",
+    "fecha_destino_recorrido": "2024-01-23 17:25:50",
+    "id_estacion_origen": "7",
+    "nombre_estacion_origen": "007 - OBELISCO",
+    "id_estacion_destino": "152",
+    "nombre_estacion_destino": "152 - JULIETA LANTERI"
+  },
+  {
+    "id_recorrido": "20426426",
+    "duracion_recorrido": "2293",
+    "fecha_origen_recorrido": "2024-01-23 17:05:36",
+    "fecha_destino_recorrido": "2024-01-23 17:43:49",
+    "id_estacion_origen": "130",
+    "nombre_estacion_origen": "130 - RETIRO II",
+    "id_estacion_destino": "489",
+    "nombre_estacion_destino": "288 - SECRETARÍA DE DEPORTES"
+  },
+  {
+    "id_recorrido": "20426448",
+    "duracion_recorrido": "1211",
+    "fecha_origen_recorrido": "2024-01-23 17:06:21",
+    "fecha_destino_recorrido": "2024-01-23 17:26:32",
+    "id_estacion_origen": "212",
+    "nombre_estacion_origen": "129 - Velasco",
+    "id_estacion_destino": "393",
+    "nombre_estacion_destino": "300 - Jose Artigas"
+  },
+  {
+    "id_recorrido": "20426490",
+    "duracion_recorrido": "845",
+    "fecha_origen_recorrido": "2024-01-23 17:08:16",
+    "fecha_destino_recorrido": "2024-01-23 17:22:21",
+    "id_estacion_origen": "418",
+    "nombre_estacion_origen": "345 - Plaza Mafalda",
+    "id_estacion_destino": "537",
+    "nombre_estacion_destino": "389 - Av. ELCANO"
+  },
+  {
+    "id_recorrido": "20426536",
+    "duracion_recorrido": "2895",
+    "fecha_origen_recorrido": "2024-01-23 17:10:56",
+    "fecha_destino_recorrido": "2024-01-23 17:59:11",
+    "id_estacion_origen": "94",
+    "nombre_estacion_origen": "094 - GÚZMAN",
+    "id_estacion_destino": "85",
+    "nombre_estacion_destino": "085 - AGUERO"
+  },
+  {
+    "id_recorrido": "20426554",
+    "duracion_recorrido": "532",
+    "fecha_origen_recorrido": "2024-01-23 17:11:44",
+    "fecha_destino_recorrido": "2024-01-23 17:20:36",
+    "id_estacion_origen": "527",
+    "nombre_estacion_origen": "068 - AV. CORDOBA",
+    "id_estacion_destino": "94",
+    "nombre_estacion_destino": "094 - GÚZMAN"
+  },
+  {
+    "id_recorrido": "20426607",
+    "duracion_recorrido": "13834",
+    "fecha_origen_recorrido": "2024-01-23 17:14:06",
+    "fecha_destino_recorrido": "2024-01-23 21:04:40",
+    "id_estacion_origen": "152",
+    "nombre_estacion_origen": "152 - JULIETA LANTERI",
+    "id_estacion_destino": "3",
+    "nombre_estacion_destino": "003 - ADUANA"
+  },
+  {
+    "id_recorrido": "20426686",
+    "duracion_recorrido": "783",
+    "fecha_origen_recorrido": "2024-01-23 17:18:28",
+    "fecha_destino_recorrido": "2024-01-23 17:31:31",
+    "id_estacion_origen": "444",
+    "nombre_estacion_origen": "061 - Ministerio de Economia",
+    "id_estacion_destino": "175",
+    "nombre_estacion_destino": "147 - Constitución"
+  },
+  {
+    "id_recorrido": "20426693",
+    "duracion_recorrido": "1965",
+    "fecha_origen_recorrido": "2024-01-23 17:18:45",
+    "fecha_destino_recorrido": "2024-01-23 17:51:30",
+    "id_estacion_origen": "182",
+    "nombre_estacion_origen": "182 - RAVIGNANI Y GUATEMALA",
+    "id_estacion_destino": "263",
+    "nombre_estacion_destino": "270 - PLAZA DEL ANGEL GRIS"
+  },
+  {
+    "id_recorrido": "20426750",
+    "duracion_recorrido": "775",
+    "fecha_origen_recorrido": "2024-01-23 17:22:51",
+    "fecha_destino_recorrido": "2024-01-23 17:35:46",
+    "id_estacion_origen": "2",
+    "nombre_estacion_origen": "002 - Retiro I",
+    "id_estacion_destino": "50",
+    "nombre_estacion_destino": "050 - Hospital Rivadavia"
+  },
+  {
+    "id_recorrido": "20426825",
+    "duracion_recorrido": "626",
+    "fecha_origen_recorrido": "2024-01-23 17:27:01",
+    "fecha_destino_recorrido": "2024-01-23 17:37:27",
+    "id_estacion_origen": "353",
+    "nombre_estacion_origen": "237 - Madero Office",
+    "id_estacion_destino": "128",
+    "nombre_estacion_destino": "128 - PARQUE DEL BAJO"
+  },
+  {
+    "id_recorrido": "20426831",
+    "duracion_recorrido": "1389",
+    "fecha_origen_recorrido": "2024-01-23 17:27:17",
+    "fecha_destino_recorrido": "2024-01-23 17:50:26",
+    "id_estacion_origen": "134",
+    "nombre_estacion_origen": "134 - SOLDADO DE LA FRONTERA",
+    "id_estacion_destino": "507",
+    "nombre_estacion_destino": "271 - VILLA SOLDATI II"
+  },
+  {
+    "id_recorrido": "20426837",
+    "duracion_recorrido": "436",
+    "fecha_origen_recorrido": "2024-01-23 17:27:33",
+    "fecha_destino_recorrido": "2024-01-23 17:34:49",
+    "id_estacion_origen": "89",
+    "nombre_estacion_origen": "089 - Cabello",
+    "id_estacion_destino": "216",
+    "nombre_estacion_destino": "059 - Coronel Diaz"
+  },
+  {
+    "id_recorrido": "20426879",
+    "duracion_recorrido": "780",
+    "fecha_origen_recorrido": "2024-01-23 17:29:34",
+    "fecha_destino_recorrido": "2024-01-23 17:42:34",
+    "id_estacion_origen": "25",
+    "nombre_estacion_origen": "025 - Plaza Guemes",
+    "id_estacion_destino": "17",
+    "nombre_estacion_destino": "017 - Plaza Almagro"
+  },
+  {
+    "id_recorrido": "20427005",
+    "duracion_recorrido": "278",
+    "fecha_origen_recorrido": "2024-01-23 17:35:37",
+    "fecha_destino_recorrido": "2024-01-23 17:40:15",
+    "id_estacion_origen": "70",
+    "nombre_estacion_origen": "070 - ARAOZ",
+    "id_estacion_destino": "54",
+    "nombre_estacion_destino": "054 - Acuña de Figueroa"
+  },
+  {
+    "id_recorrido": "20427025",
+    "duracion_recorrido": "3102",
+    "fecha_origen_recorrido": "2024-01-23 17:36:45",
+    "fecha_destino_recorrido": "2024-01-23 18:28:27",
+    "id_estacion_origen": "265",
+    "nombre_estacion_origen": "361 - Plaza Don Segundo Sombra",
+    "id_estacion_destino": "458",
+    "nombre_estacion_destino": "219 - Parque Chacabuco II"
+  },
+  {
+    "id_recorrido": "20427035",
+    "duracion_recorrido": "1060",
+    "fecha_origen_recorrido": "2024-01-23 17:37:30",
+    "fecha_destino_recorrido": "2024-01-23 17:55:10",
+    "id_estacion_origen": "29",
+    "nombre_estacion_origen": "029 - Parque Centenario",
+    "id_estacion_destino": "220",
+    "nombre_estacion_destino": "097 - Avelino Diaz"
+  },
+  {
+    "id_recorrido": "20427053",
+    "duracion_recorrido": "1981",
+    "fecha_origen_recorrido": "2024-01-23 17:38:17",
+    "fecha_destino_recorrido": "2024-01-23 18:11:18",
+    "id_estacion_origen": "83",
+    "nombre_estacion_origen": "083 - Paraná",
+    "id_estacion_destino": "492",
+    "nombre_estacion_destino": "325 - MEDRANO"
+  },
+  {
+    "id_recorrido": "20427067",
+    "duracion_recorrido": "839",
+    "fecha_origen_recorrido": "2024-01-23 17:39:09",
+    "fecha_destino_recorrido": "2024-01-23 17:53:08",
+    "id_estacion_origen": "479",
+    "nombre_estacion_origen": "347 - CARABOBO",
+    "id_estacion_destino": "262",
+    "nombre_estacion_destino": "349 - Plaza Saenz Peña"
+  },
+  {
+    "id_recorrido": "20427103",
+    "duracion_recorrido": "361",
+    "fecha_origen_recorrido": "2024-01-23 17:41:41",
+    "fecha_destino_recorrido": "2024-01-23 17:47:42",
+    "id_estacion_origen": "35",
+    "nombre_estacion_origen": "035 - INGENIERO BUTTY",
+    "id_estacion_destino": "26",
+    "nombre_estacion_destino": "026 - JUANA MANSO I"
+  },
+  {
+    "id_recorrido": "20427106",
+    "duracion_recorrido": "349",
+    "fecha_origen_recorrido": "2024-01-23 17:41:49",
+    "fecha_destino_recorrido": "2024-01-23 17:47:38",
+    "id_estacion_origen": "258",
+    "nombre_estacion_origen": "336 - La Pampa",
+    "id_estacion_destino": "289",
+    "nombre_estacion_destino": "255 - BARRANCAS DE BELGRANO"
+  },
+  {
+    "id_recorrido": "20427113",
+    "duracion_recorrido": "3249",
+    "fecha_origen_recorrido": "2024-01-23 17:42:07",
+    "fecha_destino_recorrido": "2024-01-23 18:36:16",
+    "id_estacion_origen": "5",
+    "nombre_estacion_origen": "005 - Plaza Italia",
+    "id_estacion_destino": "5",
+    "nombre_estacion_destino": "005 - Plaza Italia"
+  },
+  {
+    "id_recorrido": "20427130",
+    "duracion_recorrido": "849",
+    "fecha_origen_recorrido": "2024-01-23 17:43:18",
+    "fecha_destino_recorrido": "2024-01-23 17:57:27",
+    "id_estacion_origen": "261",
+    "nombre_estacion_origen": "272 - Plaza Bruno Giordano",
+    "id_estacion_destino": "54",
+    "nombre_estacion_destino": "054 - Acuña de Figueroa"
+  },
+  {
+    "id_recorrido": "20427154",
+    "duracion_recorrido": "203",
+    "fecha_origen_recorrido": "2024-01-23 17:44:24",
+    "fecha_destino_recorrido": "2024-01-23 17:47:47",
+    "id_estacion_origen": "316",
+    "nombre_estacion_origen": "205 - SAN MARTIN",
+    "id_estacion_destino": "318",
+    "nombre_estacion_destino": "285 - ESPINOSA"
+  },
+  {
+    "id_recorrido": "20427252",
+    "duracion_recorrido": "783",
+    "fecha_origen_recorrido": "2024-01-23 17:48:41",
+    "fecha_destino_recorrido": "2024-01-23 18:01:44",
+    "id_estacion_origen": "187",
+    "nombre_estacion_origen": "261 - QUINTEROS LIDORO",
+    "id_estacion_destino": "230",
+    "nombre_estacion_destino": "259 - PLAZA CASTELLI"
+  },
+  {
+    "id_recorrido": "20427296",
+    "duracion_recorrido": "1463",
+    "fecha_origen_recorrido": "2024-01-23 17:52:30",
+    "fecha_destino_recorrido": "2024-01-23 18:16:53",
+    "id_estacion_origen": "416",
+    "nombre_estacion_origen": "257 - Plaza Francisco Ramirez",
+    "id_estacion_destino": "416",
+    "nombre_estacion_destino": "257 - Plaza Francisco Ramirez"
+  },
+  {
+    "id_recorrido": "20427338",
+    "duracion_recorrido": "1254",
+    "fecha_origen_recorrido": "2024-01-23 17:54:59",
+    "fecha_destino_recorrido": "2024-01-23 18:15:53",
+    "id_estacion_origen": "70",
+    "nombre_estacion_origen": "070 - ARAOZ",
+    "id_estacion_destino": "281",
+    "nombre_estacion_destino": "350 - Plaza Irlanda"
+  },
+  {
+    "id_recorrido": "20427414",
+    "duracion_recorrido": "850",
+    "fecha_origen_recorrido": "2024-01-23 18:00:07",
+    "fecha_destino_recorrido": "2024-01-23 18:14:17",
+    "id_estacion_origen": "111",
+    "nombre_estacion_origen": "111 - MACACHA GUEMES",
+    "id_estacion_destino": "59",
+    "nombre_estacion_destino": "018 - Independencia"
+  },
+  {
+    "id_recorrido": "20427519",
+    "duracion_recorrido": "534",
+    "fecha_origen_recorrido": "2024-01-23 18:04:59",
+    "fecha_destino_recorrido": "2024-01-23 18:13:53",
+    "id_estacion_origen": "527",
+    "nombre_estacion_origen": "068 - AV. CORDOBA",
+    "id_estacion_destino": "14",
+    "nombre_estacion_destino": "014 - Pacifico"
+  },
+  {
+    "id_recorrido": "20427535",
+    "duracion_recorrido": "1476",
+    "fecha_origen_recorrido": "2024-01-23 18:05:26",
+    "fecha_destino_recorrido": "2024-01-23 18:30:02",
+    "id_estacion_origen": "196",
+    "nombre_estacion_origen": "196 - HOSPITAL ARGERICH",
+    "id_estacion_destino": "433",
+    "nombre_estacion_destino": "273 - Plazoleta Colombia"
+  },
+  {
+    "id_recorrido": "20427626",
+    "duracion_recorrido": "3735",
+    "fecha_origen_recorrido": "2024-01-23 18:09:37",
+    "fecha_destino_recorrido": "2024-01-23 19:11:52",
+    "id_estacion_origen": "74",
+    "nombre_estacion_origen": "074 - INSTITUTO LELOIR",
+    "id_estacion_destino": "74",
+    "nombre_estacion_destino": "074 - INSTITUTO LELOIR"
+  },
+  {
+    "id_recorrido": "20427710",
+    "duracion_recorrido": "397",
+    "fecha_origen_recorrido": "2024-01-23 18:13:30",
+    "fecha_destino_recorrido": "2024-01-23 18:20:07",
+    "id_estacion_origen": "329",
+    "nombre_estacion_origen": "100 - Plaza Gurruchaga",
+    "id_estacion_destino": "70",
+    "nombre_estacion_destino": "070 - ARAOZ"
+  },
+  {
+    "id_recorrido": "20427780",
+    "duracion_recorrido": "844",
+    "fecha_origen_recorrido": "2024-01-23 18:16:51",
+    "fecha_destino_recorrido": "2024-01-23 18:30:55",
+    "id_estacion_origen": "85",
+    "nombre_estacion_origen": "085 - AGUERO",
+    "id_estacion_destino": "56",
+    "nombre_estacion_destino": "056 - Plaza Palermo Viejo"
+  },
+  {
+    "id_recorrido": "20427827",
+    "duracion_recorrido": "512",
+    "fecha_origen_recorrido": "2024-01-23 18:18:15",
+    "fecha_destino_recorrido": "2024-01-23 18:26:47",
+    "id_estacion_origen": "273",
+    "nombre_estacion_origen": "223 - GAINZA",
+    "id_estacion_destino": "167",
+    "nombre_estacion_destino": "275 - PLAZA 24 DE SEPTIEMBRE"
+  },
+  {
+    "id_recorrido": "20427849",
+    "duracion_recorrido": "1012",
+    "fecha_origen_recorrido": "2024-01-23 18:18:45",
+    "fecha_destino_recorrido": "2024-01-23 18:35:37",
+    "id_estacion_origen": "204",
+    "nombre_estacion_origen": "167 - Hipólito Yrigoyen",
+    "id_estacion_destino": "167",
+    "nombre_estacion_destino": "275 - PLAZA 24 DE SEPTIEMBRE"
+  },
+  {
+    "id_recorrido": "20427852",
+    "duracion_recorrido": "2490",
+    "fecha_origen_recorrido": "2024-01-23 18:18:51",
+    "fecha_destino_recorrido": "2024-01-23 19:00:21",
+    "id_estacion_origen": "527",
+    "nombre_estacion_origen": "068 - AV. CORDOBA",
+    "id_estacion_destino": "378",
+    "nombre_estacion_destino": "215 - HOSPITAL ALVAREZ"
+  },
+  {
+    "id_recorrido": "20427873",
+    "duracion_recorrido": "1057",
+    "fecha_origen_recorrido": "2024-01-23 18:19:46",
+    "fecha_destino_recorrido": "2024-01-23 18:37:23",
+    "id_estacion_origen": "212",
+    "nombre_estacion_origen": "129 - Velasco",
+    "id_estacion_destino": "194",
+    "nombre_estacion_destino": "194 - PERÓN Y ACUÑA DE FIGUEROA"
+  },
+  {
+    "id_recorrido": "20427884",
+    "duracion_recorrido": "26",
+    "fecha_origen_recorrido": "2024-01-23 18:20:18",
+    "fecha_destino_recorrido": "2024-01-23 18:20:44",
+    "id_estacion_origen": "227",
+    "nombre_estacion_origen": "188 - Aranguren",
+    "id_estacion_destino": "227",
+    "nombre_estacion_destino": "188 - Aranguren"
+  },
+  {
+    "id_recorrido": "20427925",
+    "duracion_recorrido": "3001",
+    "fecha_origen_recorrido": "2024-01-23 18:21:37",
+    "fecha_destino_recorrido": "2024-01-23 19:11:38",
+    "id_estacion_origen": "427",
+    "nombre_estacion_origen": "397 - PARQUE SANTOJANNI",
+    "id_estacion_destino": "491",
+    "nombre_estacion_destino": "266 - PLAZA SABATTINI"
+  },
+  {
+    "id_recorrido": "20428028",
+    "duracion_recorrido": "491",
+    "fecha_origen_recorrido": "2024-01-23 18:26:15",
+    "fecha_destino_recorrido": "2024-01-23 18:34:26",
+    "id_estacion_origen": "156",
+    "nombre_estacion_origen": "156 - Plaza Alemania",
+    "id_estacion_destino": "202",
+    "nombre_estacion_destino": "001 - FACULTAD DE DERECHO"
+  },
+  {
+    "id_recorrido": "20428220",
+    "duracion_recorrido": "1136",
+    "fecha_origen_recorrido": "2024-01-23 18:35:59",
+    "fecha_destino_recorrido": "2024-01-23 18:54:55",
+    "id_estacion_origen": "56",
+    "nombre_estacion_origen": "056 - Plaza Palermo Viejo",
+    "id_estacion_destino": "116",
+    "nombre_estacion_destino": "116 - HOSPITAL ALEMÁN"
+  },
+  {
+    "id_recorrido": "20428302",
+    "duracion_recorrido": "1218",
+    "fecha_origen_recorrido": "2024-01-23 18:39:22",
+    "fecha_destino_recorrido": "2024-01-23 18:59:40",
+    "id_estacion_origen": "318",
+    "nombre_estacion_origen": "285 - ESPINOSA",
+    "id_estacion_destino": "167",
+    "nombre_estacion_destino": "275 - PLAZA 24 DE SEPTIEMBRE"
+  },
+  {
+    "id_recorrido": "20428458",
+    "duracion_recorrido": "1825",
+    "fecha_origen_recorrido": "2024-01-23 18:46:39",
+    "fecha_destino_recorrido": "2024-01-23 19:17:04",
+    "id_estacion_origen": "158",
+    "nombre_estacion_origen": "158 - VILLARROEL",
+    "id_estacion_destino": "316",
+    "nombre_estacion_destino": "205 - SAN MARTIN"
+  },
+  {
+    "id_recorrido": "20428469",
+    "duracion_recorrido": "444",
+    "fecha_origen_recorrido": "2024-01-23 18:46:58",
+    "fecha_destino_recorrido": "2024-01-23 18:54:22",
+    "id_estacion_origen": "353",
+    "nombre_estacion_origen": "237 - Madero Office",
+    "id_estacion_destino": "128",
+    "nombre_estacion_destino": "128 - PARQUE DEL BAJO"
+  },
+  {
+    "id_recorrido": "20428478",
+    "duracion_recorrido": "397",
+    "fecha_origen_recorrido": "2024-01-23 18:47:20",
+    "fecha_destino_recorrido": "2024-01-23 18:53:57",
+    "id_estacion_origen": "193",
+    "nombre_estacion_origen": "193 - ARENALES Y AGUERO",
+    "id_estacion_destino": "122",
+    "nombre_estacion_destino": "122 - COSTA RICA"
+  },
+  {
+    "id_recorrido": "20428556",
+    "duracion_recorrido": "1550",
+    "fecha_origen_recorrido": "2024-01-23 18:50:44",
+    "fecha_destino_recorrido": "2024-01-23 19:16:34",
+    "id_estacion_origen": "87",
+    "nombre_estacion_origen": "087 - Guayaquil",
+    "id_estacion_destino": "74",
+    "nombre_estacion_destino": "074 - INSTITUTO LELOIR"
+  },
+  {
+    "id_recorrido": "20428632",
+    "duracion_recorrido": "4340",
+    "fecha_origen_recorrido": "2024-01-23 18:54:49",
+    "fecha_destino_recorrido": "2024-01-23 20:07:09",
+    "id_estacion_origen": "418",
+    "nombre_estacion_origen": "345 - Plaza Mafalda",
+    "id_estacion_destino": "418",
+    "nombre_estacion_destino": "345 - Plaza Mafalda"
+  },
+  {
+    "id_recorrido": "20428635",
+    "duracion_recorrido": "953",
+    "fecha_origen_recorrido": "2024-01-23 18:55:02",
+    "fecha_destino_recorrido": "2024-01-23 19:10:55",
+    "id_estacion_origen": "322",
+    "nombre_estacion_origen": "289 - MONTAÑESES",
+    "id_estacion_destino": "516",
+    "nombre_estacion_destino": "368 - PLAZA DE LA SHOÁ"
+  },
+  {
+    "id_recorrido": "20428697",
+    "duracion_recorrido": "750",
+    "fecha_origen_recorrido": "2024-01-23 18:58:23",
+    "fecha_destino_recorrido": "2024-01-23 19:10:53",
+    "id_estacion_origen": "460",
+    "nombre_estacion_origen": "133 - BEIRO Y SEGUROLA",
+    "id_estacion_destino": "309",
+    "nombre_estacion_destino": "298 - PLAZA DR. JUAN B. TERAN"
+  },
+  {
+    "id_recorrido": "20428724",
+    "duracion_recorrido": "438",
+    "fecha_origen_recorrido": "2024-01-23 19:00:16",
+    "fecha_destino_recorrido": "2024-01-23 19:07:34",
+    "id_estacion_origen": "263",
+    "nombre_estacion_origen": "270 - PLAZA DEL ANGEL GRIS",
+    "id_estacion_destino": "280",
+    "nombre_estacion_destino": "222 - SIMON BOLIVAR"
+  },
+  {
+    "id_recorrido": "20428752",
+    "duracion_recorrido": "2289",
+    "fecha_origen_recorrido": "2024-01-23 19:01:52",
+    "fecha_destino_recorrido": "2024-01-23 19:40:01",
+    "id_estacion_origen": "44",
+    "nombre_estacion_origen": "044 - Ecoparque",
+    "id_estacion_destino": "534",
+    "nombre_estacion_destino": "081 - PARQUE DE LAS CIENCIAS"
+  },
+  {
+    "id_recorrido": "20428781",
+    "duracion_recorrido": "1436",
+    "fecha_origen_recorrido": "2024-01-23 19:03:55",
+    "fecha_destino_recorrido": "2024-01-23 19:27:51",
+    "id_estacion_origen": "466",
+    "nombre_estacion_origen": "333 - PARQUE DE LA ESTACIÓN",
+    "id_estacion_destino": "80",
+    "nombre_estacion_destino": "080 - VALLE"
+  },
+  {
+    "id_recorrido": "20428779",
+    "duracion_recorrido": "889",
+    "fecha_origen_recorrido": "2024-01-23 19:03:55",
+    "fecha_destino_recorrido": "2024-01-23 19:18:44",
+    "id_estacion_origen": "231",
+    "nombre_estacion_origen": "384 - PLAZA BENITO NAZAR",
+    "id_estacion_destino": "231",
+    "nombre_estacion_destino": "384 - PLAZA BENITO NAZAR"
+  },
+  {
+    "id_recorrido": "20428826",
+    "duracion_recorrido": "523",
+    "fecha_origen_recorrido": "2024-01-23 19:05:51",
+    "fecha_destino_recorrido": "2024-01-23 19:14:34",
+    "id_estacion_origen": "230",
+    "nombre_estacion_origen": "259 - PLAZA CASTELLI",
+    "id_estacion_destino": "248",
+    "nombre_estacion_destino": "346 - Plaza Zapiola"
+  },
+  {
+    "id_recorrido": "20428959",
+    "duracion_recorrido": "2613",
+    "fecha_origen_recorrido": "2024-01-23 19:12:17",
+    "fecha_destino_recorrido": "2024-01-23 19:55:50",
+    "id_estacion_origen": "516",
+    "nombre_estacion_origen": "368 - PLAZA DE LA SHOÁ",
+    "id_estacion_destino": "516",
+    "nombre_estacion_destino": "368 - PLAZA DE LA SHOÁ"
+  },
+  {
+    "id_recorrido": "20428976",
+    "duracion_recorrido": "1640",
+    "fecha_origen_recorrido": "2024-01-23 19:13:17",
+    "fecha_destino_recorrido": "2024-01-23 19:40:37",
+    "id_estacion_origen": "263",
+    "nombre_estacion_origen": "270 - PLAZA DEL ANGEL GRIS",
+    "id_estacion_destino": "263",
+    "nombre_estacion_destino": "270 - PLAZA DEL ANGEL GRIS"
+  },
+  {
+    "id_recorrido": "20429135",
+    "duracion_recorrido": "816",
+    "fecha_origen_recorrido": "2024-01-23 19:21:49",
+    "fecha_destino_recorrido": "2024-01-23 19:35:25",
+    "id_estacion_origen": "418",
+    "nombre_estacion_origen": "345 - Plaza Mafalda",
+    "id_estacion_destino": "436",
+    "nombre_estacion_destino": "253 - Plaza Colegiales"
+  },
+  {
+    "id_recorrido": "20429222",
+    "duracion_recorrido": "1800",
+    "fecha_origen_recorrido": "2024-01-23 19:27:11",
+    "fecha_destino_recorrido": "2024-01-23 19:57:11",
+    "id_estacion_origen": "44",
+    "nombre_estacion_origen": "044 - Ecoparque",
+    "id_estacion_destino": "485",
+    "nombre_estacion_destino": "230 - PASEO DE LA COSTANERA II"
+  },
+  {
+    "id_recorrido": "20429274",
+    "duracion_recorrido": "415",
+    "fecha_origen_recorrido": "2024-01-23 19:30:43",
+    "fecha_destino_recorrido": "2024-01-23 19:37:38",
+    "id_estacion_origen": "519",
+    "nombre_estacion_origen": "053 - AV. DEL LIBERTADOR ",
+    "id_estacion_destino": "43",
+    "nombre_estacion_destino": "334 - CENTRO DE EXPOSICIONES"
+  },
+  {
+    "id_recorrido": "20429306",
+    "duracion_recorrido": "766",
+    "fecha_origen_recorrido": "2024-01-23 19:32:26",
+    "fecha_destino_recorrido": "2024-01-23 19:45:12",
+    "id_estacion_origen": "29",
+    "nombre_estacion_origen": "029 - Parque Centenario",
+    "id_estacion_destino": "223",
+    "nombre_estacion_destino": "178 - José Marmol"
+  },
+  {
+    "id_recorrido": "20429309",
+    "duracion_recorrido": "4091",
+    "fecha_origen_recorrido": "2024-01-23 19:32:35",
+    "fecha_destino_recorrido": "2024-01-23 20:40:46",
+    "id_estacion_origen": "206",
+    "nombre_estacion_origen": "159 - Fitz Roy & Gorriti",
+    "id_estacion_destino": "527",
+    "nombre_estacion_destino": "068 - AV. CORDOBA"
+  },
+  {
+    "id_recorrido": "20429458",
+    "duracion_recorrido": "1351",
+    "fecha_origen_recorrido": "2024-01-23 19:40:39",
+    "fecha_destino_recorrido": "2024-01-23 20:03:10",
+    "id_estacion_origen": "137",
+    "nombre_estacion_origen": "137 - AZOPARDO Y CHILE",
+    "id_estacion_destino": "199",
+    "nombre_estacion_destino": "199 - ESTADOS UNIDOS Y BOEDO"
+  },
+  {
+    "id_recorrido": "20429466",
+    "duracion_recorrido": "999",
+    "fecha_origen_recorrido": "2024-01-23 19:40:57",
+    "fecha_destino_recorrido": "2024-01-23 19:57:36",
+    "id_estacion_origen": "118",
+    "nombre_estacion_origen": "118 - MEXICO",
+    "id_estacion_destino": "144",
+    "nombre_estacion_destino": "144 - PUEYRREDÓN"
+  },
+  {
+    "id_recorrido": "20429514",
+    "duracion_recorrido": "1187",
+    "fecha_origen_recorrido": "2024-01-23 19:42:54",
+    "fecha_destino_recorrido": "2024-01-23 20:02:41",
+    "id_estacion_origen": "231",
+    "nombre_estacion_origen": "384 - PLAZA BENITO NAZAR",
+    "id_estacion_destino": "522",
+    "nombre_estacion_destino": "119 - PLAZOLETA BENEDIT"
+  },
+  {
+    "id_recorrido": "20429554",
+    "duracion_recorrido": "867",
+    "fecha_origen_recorrido": "2024-01-23 19:44:39",
+    "fecha_destino_recorrido": "2024-01-23 19:59:06",
+    "id_estacion_origen": "458",
+    "nombre_estacion_origen": "219 - Parque Chacabuco II",
+    "id_estacion_destino": "49",
+    "nombre_estacion_destino": "049 - 33 Orientales"
+  },
+  {
+    "id_recorrido": "20429665",
+    "duracion_recorrido": "1679",
+    "fecha_origen_recorrido": "2024-01-23 19:49:46",
+    "fecha_destino_recorrido": "2024-01-23 20:17:45",
+    "id_estacion_origen": "165",
+    "nombre_estacion_origen": "165 - PLAZA MONSEÑOR MIGUEL DE ANDREA",
+    "id_estacion_destino": "85",
+    "nombre_estacion_destino": "085 - AGUERO"
+  },
+  {
+    "id_recorrido": "20429758",
+    "duracion_recorrido": "733",
+    "fecha_origen_recorrido": "2024-01-23 19:56:17",
+    "fecha_destino_recorrido": "2024-01-23 20:08:30",
+    "id_estacion_origen": "529",
+    "nombre_estacion_origen": "011 - RIO DE JANEIRO",
+    "id_estacion_destino": "167",
+    "nombre_estacion_destino": "275 - PLAZA 24 DE SEPTIEMBRE"
+  },
+  {
+    "id_recorrido": "20429790",
+    "duracion_recorrido": "156",
+    "fecha_origen_recorrido": "2024-01-23 19:58:26",
+    "fecha_destino_recorrido": "2024-01-23 20:01:02",
+    "id_estacion_origen": "111",
+    "nombre_estacion_origen": "111 - MACACHA GUEMES",
+    "id_estacion_destino": "111",
+    "nombre_estacion_destino": "111 - MACACHA GUEMES"
+  },
+  {
+    "id_recorrido": "20429802",
+    "duracion_recorrido": "2086",
+    "fecha_origen_recorrido": "2024-01-23 19:59:05",
+    "fecha_destino_recorrido": "2024-01-23 20:33:51",
+    "id_estacion_origen": "130",
+    "nombre_estacion_origen": "130 - RETIRO II",
+    "id_estacion_destino": "353",
+    "nombre_estacion_destino": "237 - Madero Office"
+  },
+  {
+    "id_recorrido": "20429835",
+    "duracion_recorrido": "1252",
+    "fecha_origen_recorrido": "2024-01-23 20:01:06",
+    "fecha_destino_recorrido": "2024-01-23 20:21:58",
+    "id_estacion_origen": "202",
+    "nombre_estacion_origen": "001 - FACULTAD DE DERECHO",
+    "id_estacion_destino": "516",
+    "nombre_estacion_destino": "368 - PLAZA DE LA SHOÁ"
+  },
+  {
+    "id_recorrido": "20429914",
+    "duracion_recorrido": "668",
+    "fecha_origen_recorrido": "2024-01-23 20:05:05",
+    "fecha_destino_recorrido": "2024-01-23 20:16:13",
+    "id_estacion_origen": "189",
+    "nombre_estacion_origen": "189 - POSADAS",
+    "id_estacion_destino": "50",
+    "nombre_estacion_destino": "050 - Hospital Rivadavia"
+  },
+  {
+    "id_recorrido": "20429972",
+    "duracion_recorrido": "662",
+    "fecha_origen_recorrido": "2024-01-23 20:07:58",
+    "fecha_destino_recorrido": "2024-01-23 20:19:00",
+    "id_estacion_origen": "73",
+    "nombre_estacion_origen": "073 - Ruy Díaz de Guzmán",
+    "id_estacion_destino": "172",
+    "nombre_estacion_destino": "172 - BRASIL"
+  },
+  {
+    "id_recorrido": "20429974",
+    "duracion_recorrido": "2624",
+    "fecha_origen_recorrido": "2024-01-23 20:08:03",
+    "fecha_destino_recorrido": "2024-01-23 20:51:47",
+    "id_estacion_origen": "202",
+    "nombre_estacion_origen": "001 - FACULTAD DE DERECHO",
+    "id_estacion_destino": "189",
+    "nombre_estacion_destino": "189 - POSADAS"
+  },
+  {
+    "id_recorrido": "20430004",
+    "duracion_recorrido": "2",
+    "fecha_origen_recorrido": "2024-01-23 20:09:52",
+    "fecha_destino_recorrido": "2024-01-23 20:09:54",
+    "id_estacion_origen": "122",
+    "nombre_estacion_origen": "122 - COSTA RICA",
+    "id_estacion_destino": "69",
+    "nombre_estacion_destino": "069 - Ecuador"
+  },
+  {
+    "id_recorrido": "20430007",
+    "duracion_recorrido": "951",
+    "fecha_origen_recorrido": "2024-01-23 20:10:03",
+    "fecha_destino_recorrido": "2024-01-23 20:25:54",
+    "id_estacion_origen": "367",
+    "nombre_estacion_origen": "287 - Belaustegui",
+    "id_estacion_destino": "385",
+    "nombre_estacion_destino": "268 - Plaza Aristóbulo Del Valle"
+  },
+  {
+    "id_recorrido": "20430051",
+    "duracion_recorrido": "328",
+    "fecha_origen_recorrido": "2024-01-23 20:13:04",
+    "fecha_destino_recorrido": "2024-01-23 20:18:32",
+    "id_estacion_origen": "280",
+    "nombre_estacion_origen": "222 - SIMON BOLIVAR",
+    "id_estacion_destino": "479",
+    "nombre_estacion_destino": "347 - CARABOBO"
+  },
+  {
+    "id_recorrido": "20430126",
+    "duracion_recorrido": "2",
+    "fecha_origen_recorrido": "2024-01-23 20:17:16",
+    "fecha_destino_recorrido": "2024-01-23 20:17:18",
+    "id_estacion_origen": "253",
+    "nombre_estacion_origen": "383 - BOEDO Y VENEZUELA",
+    "id_estacion_destino": "69",
+    "nombre_estacion_destino": "069 - Ecuador"
+  },
+  {
+    "id_recorrido": "20430130",
+    "duracion_recorrido": "465",
+    "fecha_origen_recorrido": "2024-01-23 20:17:21",
+    "fecha_destino_recorrido": "2024-01-23 20:25:06",
+    "id_estacion_origen": "74",
+    "nombre_estacion_origen": "074 - INSTITUTO LELOIR",
+    "id_estacion_destino": "261",
+    "nombre_estacion_destino": "272 - Plaza Bruno Giordano"
+  },
+  {
+    "id_recorrido": "20430143",
+    "duracion_recorrido": "1929",
+    "fecha_origen_recorrido": "2024-01-23 20:18:14",
+    "fecha_destino_recorrido": "2024-01-23 20:50:23",
+    "id_estacion_origen": "151",
+    "nombre_estacion_origen": "151 - AIME PAINÉ",
+    "id_estacion_destino": "118",
+    "nombre_estacion_destino": "118 - MEXICO"
+  },
+  {
+    "id_recorrido": "20430146",
+    "duracion_recorrido": "21",
+    "fecha_origen_recorrido": "2024-01-23 20:19:13",
+    "fecha_destino_recorrido": "2024-01-23 20:19:34",
+    "id_estacion_origen": "516",
+    "nombre_estacion_origen": "368 - PLAZA DE LA SHOÁ",
+    "id_estacion_destino": "516",
+    "nombre_estacion_destino": "368 - PLAZA DE LA SHOÁ"
+  },
+  {
+    "id_recorrido": "20430307",
+    "duracion_recorrido": "3779",
+    "fecha_origen_recorrido": "2024-01-23 20:28:24",
+    "fecha_destino_recorrido": "2024-01-23 21:31:23",
+    "id_estacion_origen": "497",
+    "nombre_estacion_origen": "307 - CERRETTI",
+    "id_estacion_destino": "461",
+    "nombre_estacion_destino": "106 - MOSCONI Y CONSTITUYENTES"
+  },
+  {
+    "id_recorrido": "20430393",
+    "duracion_recorrido": "451",
+    "fecha_origen_recorrido": "2024-01-23 20:33:41",
+    "fecha_destino_recorrido": "2024-01-23 20:41:12",
+    "id_estacion_origen": "9",
+    "nombre_estacion_origen": "009 - Parque Las Heras",
+    "id_estacion_destino": "210",
+    "nombre_estacion_destino": "335 - General Urquiza"
+  },
+  {
+    "id_recorrido": "20430407",
+    "duracion_recorrido": "1757",
+    "fecha_origen_recorrido": "2024-01-23 20:34:19",
+    "fecha_destino_recorrido": "2024-01-23 21:03:36",
+    "id_estacion_origen": "54",
+    "nombre_estacion_origen": "054 - Acuña de Figueroa",
+    "id_estacion_destino": "516",
+    "nombre_estacion_destino": "368 - PLAZA DE LA SHOÁ"
+  },
+  {
+    "id_recorrido": "20430728",
+    "duracion_recorrido": "292",
+    "fecha_origen_recorrido": "2024-01-23 20:56:08",
+    "fecha_destino_recorrido": "2024-01-23 21:01:00",
+    "id_estacion_origen": "54",
+    "nombre_estacion_origen": "054 - Acuña de Figueroa",
+    "id_estacion_destino": "122",
+    "nombre_estacion_destino": "122 - COSTA RICA"
+  },
+  {
+    "id_recorrido": "20430890",
+    "duracion_recorrido": "622",
+    "fecha_origen_recorrido": "2024-01-23 21:08:25",
+    "fecha_destino_recorrido": "2024-01-23 21:18:47",
+    "id_estacion_origen": "70",
+    "nombre_estacion_origen": "070 - ARAOZ",
+    "id_estacion_destino": "74",
+    "nombre_estacion_destino": "074 - INSTITUTO LELOIR"
+  },
+  {
+    "id_recorrido": "20430939",
+    "duracion_recorrido": "804",
+    "fecha_origen_recorrido": "2024-01-23 21:11:28",
+    "fecha_destino_recorrido": "2024-01-23 21:24:52",
+    "id_estacion_origen": "213",
+    "nombre_estacion_origen": "136 - Acevedo",
+    "id_estacion_destino": "215",
+    "nombre_estacion_destino": "113 - Guatemala"
+  },
+  {
+    "id_recorrido": "20430949",
+    "duracion_recorrido": "24",
+    "fecha_origen_recorrido": "2024-01-23 21:12:24",
+    "fecha_destino_recorrido": "2024-01-23 21:12:48",
+    "id_estacion_origen": "187",
+    "nombre_estacion_origen": "261 - QUINTEROS LIDORO",
+    "id_estacion_destino": "187",
+    "nombre_estacion_destino": "261 - QUINTEROS LIDORO"
+  },
+  {
+    "id_recorrido": "20431004",
+    "duracion_recorrido": "1176",
+    "fecha_origen_recorrido": "2024-01-23 21:17:38",
+    "fecha_destino_recorrido": "2024-01-23 21:37:14",
+    "id_estacion_origen": "68",
+    "nombre_estacion_origen": "105 - PARQUE SAAVEDRA",
+    "id_estacion_destino": "68",
+    "nombre_estacion_destino": "105 - PARQUE SAAVEDRA"
+  },
+  {
+    "id_recorrido": "20431015",
+    "duracion_recorrido": "4321",
+    "fecha_origen_recorrido": "2024-01-23 21:18:48",
+    "fecha_destino_recorrido": "2024-01-23 22:30:49",
+    "id_estacion_origen": "466",
+    "nombre_estacion_origen": "333 - PARQUE DE LA ESTACIÓN",
+    "id_estacion_destino": "58",
+    "nombre_estacion_destino": "058 - Ministro Carranza"
+  },
+  {
+    "id_recorrido": "20431150",
+    "duracion_recorrido": "625",
+    "fecha_origen_recorrido": "2024-01-23 21:32:29",
+    "fecha_destino_recorrido": "2024-01-23 21:42:54",
+    "id_estacion_origen": "71",
+    "nombre_estacion_origen": "071 - CERRITO",
+    "id_estacion_destino": "168",
+    "nombre_estacion_destino": "168 - Estados Unidos"
+  },
+  {
+    "id_recorrido": "20431225",
+    "duracion_recorrido": "1325",
+    "fecha_origen_recorrido": "2024-01-23 21:40:34",
+    "fecha_destino_recorrido": "2024-01-23 22:02:39",
+    "id_estacion_origen": "54",
+    "nombre_estacion_origen": "054 - Acuña de Figueroa",
+    "id_estacion_destino": "277",
+    "nombre_estacion_destino": "292 - PLAZA BOLIVIA"
+  },
+  {
+    "id_recorrido": "20431251",
+    "duracion_recorrido": "752",
+    "fecha_origen_recorrido": "2024-01-23 21:44:17",
+    "fecha_destino_recorrido": "2024-01-23 21:56:49",
+    "id_estacion_origen": "65",
+    "nombre_estacion_origen": "065 - Julián Álvarez",
+    "id_estacion_destino": "96",
+    "nombre_estacion_destino": "096 - Carlos Gardel"
+  },
+  {
+    "id_recorrido": "20431299",
+    "duracion_recorrido": "2",
+    "fecha_origen_recorrido": "2024-01-23 21:50:08",
+    "fecha_destino_recorrido": "2024-01-23 21:50:10",
+    "id_estacion_origen": "22",
+    "nombre_estacion_origen": "022 - Arenales",
+    "id_estacion_destino": "89",
+    "nombre_estacion_destino": "089 - Cabello"
+  },
+  {
+    "id_recorrido": "20431368",
+    "duracion_recorrido": "2672",
+    "fecha_origen_recorrido": "2024-01-23 21:56:19",
+    "fecha_destino_recorrido": "2024-01-23 22:40:51",
+    "id_estacion_origen": "14",
+    "nombre_estacion_origen": "014 - Pacifico",
+    "id_estacion_destino": "14",
+    "nombre_estacion_destino": "014 - Pacifico"
+  },
+  {
+    "id_recorrido": "20431475",
+    "duracion_recorrido": "637",
+    "fecha_origen_recorrido": "2024-01-23 22:08:12",
+    "fecha_destino_recorrido": "2024-01-23 22:18:49",
+    "id_estacion_origen": "277",
+    "nombre_estacion_origen": "292 - PLAZA BOLIVIA",
+    "id_estacion_destino": "58",
+    "nombre_estacion_destino": "058 - Ministro Carranza"
+  },
+  {
+    "id_recorrido": "20431522",
+    "duracion_recorrido": "510",
+    "fecha_origen_recorrido": "2024-01-23 22:13:22",
+    "fecha_destino_recorrido": "2024-01-23 22:21:52",
+    "id_estacion_origen": "184",
+    "nombre_estacion_origen": "184 - Pedro Echague",
+    "id_estacion_destino": "183",
+    "nombre_estacion_destino": "183 - VIRREY CEVALLOS"
+  },
+  {
+    "id_recorrido": "20431529",
+    "duracion_recorrido": "277",
+    "fecha_origen_recorrido": "2024-01-23 22:13:49",
+    "fecha_destino_recorrido": "2024-01-23 22:18:26",
+    "id_estacion_origen": "79",
+    "nombre_estacion_origen": "079 - AZUCENA VILLAFLOR",
+    "id_estacion_destino": "164",
+    "nombre_estacion_destino": "164 - FACULTAD DE INGENIERIA"
+  },
+  {
+    "id_recorrido": "20431612",
+    "duracion_recorrido": "483",
+    "fecha_origen_recorrido": "2024-01-23 22:23:12",
+    "fecha_destino_recorrido": "2024-01-23 22:31:15",
+    "id_estacion_origen": "2",
+    "nombre_estacion_origen": "002 - Retiro I",
+    "id_estacion_destino": "448",
+    "nombre_estacion_destino": "393 - Barrio 31"
+  },
+  {
+    "id_recorrido": "20431786",
+    "duracion_recorrido": "1157",
+    "fecha_origen_recorrido": "2024-01-23 22:47:57",
+    "fecha_destino_recorrido": "2024-01-23 23:07:14",
+    "id_estacion_origen": "197",
+    "nombre_estacion_origen": "197 - PLAZA CIUDAD DE UDINE",
+    "id_estacion_destino": "480",
+    "nombre_estacion_destino": "353 - PLAZA VÉLEZ SARSFIELD"
+  },
+  {
+    "id_recorrido": "20431834",
+    "duracion_recorrido": "898",
+    "fecha_origen_recorrido": "2024-01-23 22:55:29",
+    "fecha_destino_recorrido": "2024-01-23 23:10:27",
+    "id_estacion_origen": "174",
+    "nombre_estacion_origen": "174 - MINISTERIO DE EDUCACION",
+    "id_estacion_destino": "144",
+    "nombre_estacion_destino": "144 - PUEYRREDÓN"
+  },
+  {
+    "id_recorrido": "20431873",
+    "duracion_recorrido": "1554",
+    "fecha_origen_recorrido": "2024-01-23 23:04:33",
+    "fecha_destino_recorrido": "2024-01-23 23:30:27",
+    "id_estacion_origen": "75",
+    "nombre_estacion_origen": "075 - Plaza Primero de Mayo",
+    "id_estacion_destino": "153",
+    "nombre_estacion_destino": "153 - JUAN MANUEL DE BLANES"
+  },
+  {
+    "id_recorrido": "20431897",
+    "duracion_recorrido": "1363",
+    "fecha_origen_recorrido": "2024-01-23 23:07:41",
+    "fecha_destino_recorrido": "2024-01-23 23:30:24",
+    "id_estacion_origen": "477",
+    "nombre_estacion_origen": "311 - SEC. DE INNOVACION Y TRANSFORMACIÓN",
+    "id_estacion_destino": "223",
+    "nombre_estacion_destino": "178 - José Marmol"
+  },
+  {
+    "id_recorrido": "20431916",
+    "duracion_recorrido": "1096",
+    "fecha_origen_recorrido": "2024-01-23 23:10:51",
+    "fecha_destino_recorrido": "2024-01-23 23:29:07",
+    "id_estacion_origen": "349",
+    "nombre_estacion_origen": "232 - Sucre y Martinez",
+    "id_estacion_destino": "369",
+    "nombre_estacion_destino": "304 - Navarro"
+  },
+  {
+    "id_recorrido": "20431923",
+    "duracion_recorrido": "1660",
+    "fecha_origen_recorrido": "2024-01-23 23:11:36",
+    "fecha_destino_recorrido": "2024-01-23 23:39:16",
+    "id_estacion_origen": "101",
+    "nombre_estacion_origen": "101 - Fitz Roy",
+    "id_estacion_destino": "371",
+    "nombre_estacion_destino": "269 - Plaza De La Misericordia"
+  },
+  {
+    "id_recorrido": "20432073",
+    "duracion_recorrido": "1640",
+    "fecha_origen_recorrido": "2024-01-23 23:33:47",
+    "fecha_destino_recorrido": "2024-01-24 00:01:07",
+    "id_estacion_origen": "215",
+    "nombre_estacion_origen": "113 - Guatemala",
+    "id_estacion_destino": "435",
+    "nombre_estacion_destino": "227 -Club Ciudad de Buenos Aires"
+  },
+  {
+    "id_recorrido": "20432147",
+    "duracion_recorrido": "1558",
+    "fecha_origen_recorrido": "2024-01-23 23:45:38",
+    "fecha_destino_recorrido": "2024-01-24 00:11:36",
+    "id_estacion_origen": "17",
+    "nombre_estacion_origen": "017 - Plaza Almagro",
+    "id_estacion_destino": "17",
+    "nombre_estacion_destino": "017 - Plaza Almagro"
+  },
+  {
+    "id_recorrido": "20432181",
+    "duracion_recorrido": "632",
+    "fecha_origen_recorrido": "2024-01-23 23:52:38",
+    "fecha_destino_recorrido": "2024-01-24 00:03:10",
+    "id_estacion_origen": "161",
+    "nombre_estacion_origen": "161 - Humahuaca",
+    "id_estacion_destino": "440",
+    "nombre_estacion_destino": "142 - ARMENIA"
+  }
+]
