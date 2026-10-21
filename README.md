@@ -1,2 +1,4 @@
-# tp2-grosso
-Balance de movimientos en estaciones de Ecobici en Buenos Aires, Argentina del 2024
+# balance de movimientos de estaciones Ecobici en Buenos Aires, Argentina 
+
+Candelaria Grosso
+Trabajo Practico 2 de Programacion Orientada a Datos.
