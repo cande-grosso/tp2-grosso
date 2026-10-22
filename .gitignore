@@ -219,5 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
- # Salidas generadas por la aplicación
- outputs/
+# Salidas generadas por la aplicación
+outputs/
