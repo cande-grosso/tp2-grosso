@@ -89,6 +89,7 @@ py -m unittest discover -s tests -v
 | `src/pipeline.py` | Funciones del flujo: `validar_esquema`, `limpiar_datos`, `seleccionar_periodo`, `registrar_movimientos`, `generar_balance`, `verificar_resultado`, `guardar_resultado`, `guardar_rechazos`. |
 | `src/main.py` | Argumentos de consola y coordinación del flujo. |
 | `tests/test_pipeline.py` | Pruebas con `unittest`. |
+| `src/diagnostico.py` | Informe de calidad sobre el archivo completo (rechazos por motivo, duplicados y viajes por día)
 
 Flujo: leer → validar esquema → limpiar → seleccionar período → calcular
 balance → verificar resultado → exportar.
@@ -147,3 +148,18 @@ coherentes).
 - Fuera de alcance: stock disponible, reposición, predicción, mapas y
 análisis por características de las personas usuarias.
 - La muestra es un subconjunto de 200 viajes, por lo que sus balances sirven para demostrar el funcionamiento y no representan la operación    real de ese día
+
+
+
+
+
+
+
+## Calidad de los datos
+
+Sobre el archivo completo de 2024 (2.324.732 registros), la validación rechaza
+21.013 (0,90 %): 18.831 con duración 0 entre estaciones distintas, 2.181 sin
+fecha de fin y 1 con identificador de estación no numérico. No hay ids de viaje
+duplicados. Para reproducir estos números:
+
+    py src/diagnostico.py RUTA_AL_CSV_COMPLETO

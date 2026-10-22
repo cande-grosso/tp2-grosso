@@ -44,3 +44,11 @@ esta versión y no se copian a la muestra.
   numérico. Se usa el id como clave.
 - La muestra cubre un solo día y no representa todo el año.
 - El balance mide movimientos de viajes, no bicicletas disponibles.
+
+- En el archivo completo (2.324.732 registros), el 0,90 % no pasa la
+  validación: 18.831 con duración 0 entre estaciones distintas, 2.181 sin
+  fecha de fin y 1 con id de estación destino no numérico. Se obtienen con
+  `py src/diagnostico.py RUTA_AL_CSV`.
+- El día de la muestra (2024-01-23) tuvo 2.041 viajes, menos de un tercio del
+  promedio diario del año (6.738), por lo que es un día de baja actividad.
+- La muestra de 200 viajes no contiene registros rechazados.
