@@ -125,9 +125,43 @@ explícito, no ceros inventados.
 
 ## Ejemplo de resultado
 
-[COMPLETAR: ejecutar el comando de la sección "Instalación y ejecución" con la
-muestra y pegar acá el resumen que imprime el programa, por ejemplo la cantidad
-de rechazados por motivo y las estaciones con mayor balance positivo y negativo.]
+Ejecución sobre el día completo de la muestra:
+
+```
+py src/main.py --entrada data/viajes_muestra.csv --inicio "2024-01-23 00:00:00" --fin "2024-01-24 00:00:00"
+```
+
+Salida:
+
+```
+Registros leídos: 200
+Viajes válidos: 200
+Viajes rechazados: 0
+Viajes en el período: 200
+Estaciones con movimientos: 194
+
+Mayor balance positivo (reciben más de lo que despachan):
+  058 - Ministro Carranza: +3 (3 llegadas, 0 salidas)
+  069 - Ecuador: +3 (3 llegadas, 0 salidas)
+  096 - Carlos Gardel: +3 (3 llegadas, 0 salidas)
+  164 - FACULTAD DE INGENIERIA: +3 (3 llegadas, 0 salidas)
+  275 - PLAZA 24 DE SEPTIEMBRE: +3 (4 llegadas, 1 salidas)
+
+Mayor balance negativo (despachan más de lo que reciben):
+  084 - TEATRO PICADERO: -3 (0 llegadas, 3 salidas)
+  159 - Fitz Roy & Gorriti: -3 (0 llegadas, 3 salidas)
+  029 - Parque Centenario: -3 (0 llegadas, 3 salidas)
+  025 - Plaza Guemes: -3 (0 llegadas, 3 salidas)
+  002 - Retiro I: -3 (0 llegadas, 3 salidas)
+
+Reporte guardado en: outputs/balance_estaciones.csv
+Rechazados guardados en: outputs/viajes_rechazados.csv
+```
+
+La muestra tiene solo 200 viajes repartidos en 194 estaciones, por lo que los
+balances son pequeños y sirven para demostrar el funcionamiento, no para sacar
+conclusiones sobre la operación real de ese día.
+
 
 ## Interpretación y limitaciones
 
